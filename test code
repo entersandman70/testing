@@ -22,6 +22,10 @@ https://date-plum.fruithosted.net/dl/n/IGXShRdhxBAxca8y/otbofrprpolspsok/E9PAYPH
 #EXTINF:-1 tvg-logo="" group-title="",BOO
 #EXTVLCOPT:network-caching=2000
 http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m02000000000012202962&ct=17950&tsum=ffa49d6092dfb18eb6443a6463d86f42
+
+
+#EXTINF:0 tvg-logo="https://www.xtra.com.my/img/logo/dramasangat2.png" group-title="Malaysia", Drama Sangat
+https://stream-03.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0hD92DkO-GKA3qULhe73riI)/dm/3/x6zvnex/s/live-3.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.theSportsdb.com/images/media/logo/qwvsut1433964035.png" group-title="ESPN",ESPN
 #EXTVLCOPT:network-caching=2000
