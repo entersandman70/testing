@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://soundandpicture.com/wp-content/uploads/2018/01/agt_top.jpg" group-title="AMERICA'S GOT TALENT S13",AGTS1
+#EXTINF:-1 tvg-logo="https://soundandpicture.com/wp-content/uploads/2018/01/agt_top.jpg" group-title="TEST",TEST 1
 #EXTVLCOPT:network-caching=1500
 https://www.googleapis.com/drive/v3/files/1fxCsVOu-GtgjZRWx51N8lxdoq9Cxo24_?alt=media&key=AIzaSyD2-t8phykckTFggOTVEwxYIw5A8yoI4Ks
  
  
-#EXTINF:-1 tvg-logo="https://soundandpicture.com/wp-content/uploads/2018/01/agt_top.jpg" group-title="AMERICA'S GOT TALENT S13",AGTS2
+#EXTINF:-1 tvg-logo="https://soundandpicture.com/wp-content/uploads/2018/01/agt_top.jpg" group-title="TEST",TEST 2
 #EXTVLCOPT:network-caching=1500
 https://doc-0o-44-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/7mlhdb842obamfipfit8j8c4j25g9pgi/1559620800000/01839075329793426283/*/1VPjFwAigJmkZH_kdhIt-HQR1EN3MNj7P?e=download
  
  
-#EXTINF:-1 tvg-logo="https://soundandpicture.com/wp-content/uploads/2018/01/agt_top.jpg" group-title="AMERICA'S GOT TALENT S13",AGTS3
+#EXTINF:-1 tvg-logo="https://soundandpicture.com/wp-content/uploads/2018/01/agt_top.jpg" group-title="TEST",TEST 3
 #EXTVLCOPT:network-caching=2000
 
  
-#EXTINF:-1 tvg-logo="https://soundandpicture.com/wp-content/uploads/2018/01/agt_top.jpg" group-title="AMERICA'S GOT TALENT S13",AGTS4
+#EXTINF:-1 tvg-logo="https://soundandpicture.com/wp-content/uploads/2018/01/agt_top.jpg" group-title="TEST",TEST 4
 #EXTVLCOPT:network-caching=2000
 
 
