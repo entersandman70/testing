@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://soundandpicture.com/wp-content/uploads/2018/01/agt_top.jpg" group-title="TEST",TEST 1
+#EXTINF:-1 tvg-logo="http://tv.trexiptv.com:8000/picons/logos/bbcentertainment.png" group-title="TEST",BBC ENTERTAINMENT HD
 #EXTVLCOPT:network-caching=1500
-
+http://line.dynoconnect.me:8000/lJU9tx7XvP/Kmq9tJcVGU/52168
  
  
-#EXTINF:-1 tvg-logo="https://soundandpicture.com/wp-content/uploads/2018/01/agt_top.jpg" group-title="TEST",TEST 2
+#EXTINF:-1 tvg-logo="http://tv.trexiptv.com:8000/picons/logos/bbcfirst.png" group-title="TEST",BBC FIRST FHD HEVC
 #EXTVLCOPT:network-caching=1500
-
+http://line.dynoconnect.me:8000/lJU9tx7XvP/Kmq9tJcVGU/50206
  
  
-#EXTINF:-1 tvg-logo="https://soundandpicture.com/wp-content/uploads/2018/01/agt_top.jpg" group-title="TEST",TEST 3
+#EXTINF:-1 tvg-logo="https://soundandpicture.com/wp-content/uploads/2018/01/agt_top.jpg" group-title="TEST",BRAVA FHD
 #EXTVLCOPT:network-caching=2000
-
+http://line.dynoconnect.me:8000/lJU9tx7XvP/Kmq9tJcVGU/61563
  
 #EXTINF:-1 tvg-logo="https://soundandpicture.com/wp-content/uploads/2018/01/agt_top.jpg" group-title="TEST",TEST 4
 #EXTVLCOPT:network-caching=2000
