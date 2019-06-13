@@ -12,10 +12,25 @@ http://line.dynoconnect.me:8000/lJU9tx7XvP/Kmq9tJcVGU/50206
 #EXTINF:-1 tvg-logo="http://tv.trexiptv.com:8000/picons/logos/24kitchenhd.png" group-title="TEST",24 KITCHEN FHD HEVC
 #EXTVLCOPT:network-caching=1500
 http://line.dynoconnect.me:8000/lJU9tx7XvP/Kmq9tJcVGU/50207
- 
-#EXTINF:-1 tvg-logo="https://soundandpicture.com/wp-content/uploads/2018/01/agt_top.jpg" group-title="TEST",TEST 4
-#EXTVLCOPT:network-caching=2000
 
+
+#EXTINF:-1 tvg-logo="http://tv.trexiptv.com:8000/picons/logos/animalplanet.png" group-title="TEST",ANIMAL PLANET FHD
+#EXTVLCOPT:network-caching=1500
+http://line.dynoconnect.me:8000/lJU9tx7XvP/Kmq9tJcVGU/61559
+ 
+ 
+#EXTINF:-1 tvg-logo="http://tv.trexiptv.com:8000/picons/logos/cartoonnetworkhd.png" group-title="TEST",CARTOON NETWORK FHD HEVC
+#EXTVLCOPT:network-caching=1500
+http://line.dynoconnect.me:8000/lJU9tx7XvP/Kmq9tJcVGU/50203
+ 
+ 
+#EXTINF:-1 tvg-logo="http://tv.trexiptv.com:8000/picons/logos/cbsreality.png" group-title="TEST",CBS REALITY HD
+#EXTVLCOPT:network-caching=1500
+http://line.dynoconnect.me:8000/lJU9tx7XvP/Kmq9tJcVGU/52171
+ 
+#EXTINF:-1 tvg-logo="http://tv.trexiptv.com:8000/picons/logos/crimeandinvestigation.png" group-title="TEST",CRIME & INVESTIGATION HD
+#EXTVLCOPT:network-caching=2000
+http://line.dynoconnect.me:8000/lJU9tx7XvP/Kmq9tJcVGU/52164
 
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",BOO
 #EXTVLCOPT:network-caching=2000
