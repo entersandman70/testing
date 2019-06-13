@@ -32,6 +32,77 @@ http://line.dynoconnect.me:8000/lJU9tx7XvP/Kmq9tJcVGU/52171
 #EXTVLCOPT:network-caching=2000
 http://line.dynoconnect.me:8000/lJU9tx7XvP/Kmq9tJcVGU/52164
 
+
+#EXTINF:-1 tvg-logo="http://tv.trexiptv.com:8000/picons/logos/bbcentertainment.png" group-title="TEST",ASTRO WARNA HD
+#EXTVLCOPT:network-caching=1500
+http://line.dynoconnect.me:8000/lJU9tx7XvP/Kmq9tJcVGU/43123
+ 
+#EXTINF:-1 tvg-logo="http://tv.trexiptv.com:8000/picons/logos/bbcfirst.png" group-title="TEST",ASTRO RIA HD
+#EXTVLCOPT:network-caching=1500
+http://line.dynoconnect.me:8000/lJU9tx7XvP/Kmq9tJcVGU/43132
+
+#EXTINF:-1 tvg-logo="http://tv.trexiptv.com:8000/picons/logos/bbcfirst.png" group-title="TEST",ASTRO PRIMA HD
+#EXTVLCOPT:network-caching=1500
+http://line.dynoconnect.me:8000/lJU9tx7XvP/Kmq9tJcVGU/43134
+
+
+#EXTINF:-1 tvg-logo="http://tv.trexiptv.com:8000/picons/logos/bbcfirst.png" group-title="TEST",ASTRO TARA HD
+#EXTVLCOPT:network-caching=1500
+http://line.dynoconnect.me:8000/lJU9tx7XvP/Kmq9tJcVGU/43126
+ 
+ 
+#EXTINF:-1 tvg-logo="http://tv.trexiptv.com:8000/picons/logos/24kitchenhd.png" group-title="TEST",ASTRO SUPERSPORTS 4 HD
+#EXTVLCOPT:network-caching=1500
+http://line.dynoconnect.me:8000/lJU9tx7XvP/Kmq9tJcVGU/43127
+
+
+#EXTINF:-1 tvg-logo="http://tv.trexiptv.com:8000/picons/logos/animalplanet.png" group-title="TEST",ASTRO SUPERSPORTS 3 HD
+#EXTVLCOPT:network-caching=1500
+http://line.dynoconnect.me:8000/lJU9tx7XvP/Kmq9tJcVGU/43128
+ 
+ 
+#EXTINF:-1 tvg-logo="http://tv.trexiptv.com:8000/picons/logos/cartoonnetworkhd.png" group-title="TEST",ASTRO SUPERSPORTS 2 HD
+#EXTVLCOPT:network-caching=1500
+http://line.dynoconnect.me:8000/lJU9tx7XvP/Kmq9tJcVGU/43129
+ 
+ 
+#EXTINF:-1 tvg-logo="http://tv.trexiptv.com:8000/picons/logos/cbsreality.png" group-title="TEST",ASTRO SUPERSPORTS 1 HD
+#EXTVLCOPT:network-caching=1500
+http://line.dynoconnect.me:8000/lJU9tx7XvP/Kmq9tJcVGU/43130
+ 
+#EXTINF:-1 tvg-logo="http://tv.trexiptv.com:8000/picons/logos/crimeandinvestigation.png" group-title="TEST",CRIME & INVESTIGATION HD
+#EXTVLCOPT:network-caching=2000
+http://line.dynoconnect.me:8000/lJU9tx7XvP/Kmq9tJcVGU/52164
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",BOO
 #EXTVLCOPT:network-caching=2000
 http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m02000000000012202962&ct=17950&tsum=ffa49d6092dfb18eb6443a6463d86f42
