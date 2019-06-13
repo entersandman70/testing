@@ -9,9 +9,9 @@ http://line.dynoconnect.me:8000/lJU9tx7XvP/Kmq9tJcVGU/52168
 http://line.dynoconnect.me:8000/lJU9tx7XvP/Kmq9tJcVGU/50206
  
  
-#EXTINF:-1 tvg-logo="https://soundandpicture.com/wp-content/uploads/2018/01/agt_top.jpg" group-title="TEST",BRAVA FHD
+#EXTINF:-1 tvg-logo="http://tv.trexiptv.com:8000/picons/logos/24kitchenhd.png" group-title="TEST",24 KITCHEN FHD HEVC
 #EXTVLCOPT:network-caching=2000
-http://line.dynoconnect.me:8000/lJU9tx7XvP/Kmq9tJcVGU/61563
+http://line.dynoconnect.me:8000/lJU9tx7XvP/Kmq9tJcVGU/50207
  
 #EXTINF:-1 tvg-logo="https://soundandpicture.com/wp-content/uploads/2018/01/agt_top.jpg" group-title="TEST",TEST 4
 #EXTVLCOPT:network-caching=2000
