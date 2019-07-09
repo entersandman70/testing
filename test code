@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://tv.trexiptv.com:8000/picons/logos/bbcentertainment.png" group-title="TEST",DRIVE TEST 
-HD
+#EXTINF:-1 tvg-logo="http://tv.trexiptv.com:8000/picons/logos/bbcentertainment.png" group-title="TEST",HD TEST 
 #EXTVLCOPT:network-caching=1500
 https://drive.google.com/open?id=1-mdRHkXTtsf40Kb1zweYOrgnT4X_4FIY
  
