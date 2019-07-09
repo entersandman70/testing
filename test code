@@ -1,8 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://tv.trexiptv.com:8000/picons/logos/bbcentertainment.png" group-title="TEST",BBC ENTERTAINMENT HD
+#EXTINF:-1 tvg-logo="http://tv.trexiptv.com:8000/picons/logos/bbcentertainment.png" group-title="TEST",DRIVE HD
 #EXTVLCOPT:network-caching=1500
-https://raw.githubusercontent.com/itv2019/78787878/master/0000000?token=AML6GBWCT4TVJXSVJX4ZOA25A4DTA
- 
+https://drive.google.com/open?id=1-mdRHkXTtsf40Kb1zweYOrgnT4X_4FIY
  
 #EXTINF:-1 tvg-logo="http://tv.trexiptv.com:8000/picons/logos/bbcfirst.png" group-title="TEST",BBC FIRST FHD HEVC
 #EXTVLCOPT:network-caching=1500
