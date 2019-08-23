@@ -17,3 +17,8 @@ https://ia601507.us.archive.org/13/items/sd02_20190823/SD02.mp4?cnt=0
 #EXTVLCOPT:network-caching=1500
 https://ia601502.us.archive.org/10/items/sd03_20190823/SD03.mp4?cnt=0
 
+
+#EXTINF:-1 tvg-logo="http://tv.trexiptv.com:8000/picons/logos/24kitchenhd.png" group-title="TEST",24 KITCHEN FHD HEVC
+#EXTVLCOPT:network-caching=1500
+https://scontent.xx.fbcdn.net/v/t39.24130-6/10000000_746537932428805_6626701650149584312_n.mp4?_nc_cat=103&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_oc=AQnj_vSPitcC-o7BkbGTTJIfrmfU1Rf-TcO_3eMm1GcJGoHcRStbbzojPfWJcx4Q5N8&_nc_ht=scontent.xx&oh=395a287571387c78e6a974e12ec30234&oe=5DE72937
+
