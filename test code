@@ -1,66 +1,66 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://tv.trexiptv.com:8000/picons/logos/bbcentertainment.png" group-title="TEST",HD TEST 
+#EXTINF:-1 tvg-logo="https://archive.org/download/photo_2019-08-06_06-36-30/photo_2019-08-06_06-36-30.jpg" group-title="TEST",HD TEST 
 #EXTVLCOPT:network-caching=1500
 https://ia601405.us.archive.org/22/items/sd01_20190822/SD01.mp4?cnt=0
  
 
  
  
-#EXTINF:-1 tvg-logo="http://tv.trexiptv.com:8000/picons/logos/24kitchenhd.png" group-title="TEST",EP1
+#EXTINF:-1 tvg-logo="https://archive.org/download/photo_2019-08-06_06-36-30/photo_2019-08-06_06-36-30.jpg" group-title="TEST",EP1
 #EXTVLCOPT:network-caching=1500
 https://ia601507.us.archive.org/13/items/sd02_20190823/SD02.mp4?cnt=0
 
 
 
  
-#EXTINF:-1 tvg-logo="http://tv.trexiptv.com:8000/picons/logos/animalplanet.png" group-title="TEST",EP2
+#EXTINF:-1 tvg-logo="https://archive.org/download/photo_2019-08-06_06-36-30/photo_2019-08-06_06-36-30.jpg" group-title="TEST",EP2
 #EXTVLCOPT:network-caching=1500
 https://ia601502.us.archive.org/10/items/sd03_20190823/SD03.mp4?cnt=0
 
 
-#EXTINF:-1 tvg-logo="http://tv.trexiptv.com:8000/picons/logos/24kitchenhd.png" group-title="TEST",EP3
+#EXTINF:-1 tvg-logo="https://archive.org/download/photo_2019-08-06_06-36-30/photo_2019-08-06_06-36-30.jpg" group-title="TEST",EP3
 #EXTVLCOPT:network-caching=1500
 https://scontent.xx.fbcdn.net/v/t39.24130-6/10000000_746537932428805_6626701650149584312_n.mp4?_nc_cat=103&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_oc=AQnj_vSPitcC-o7BkbGTTJIfrmfU1Rf-TcO_3eMm1GcJGoHcRStbbzojPfWJcx4Q5N8&_nc_ht=scontent.xx&oh=395a287571387c78e6a974e12ec30234&oe=5DE72937
 
-#EXTINF:-1 tvg-logo="http://tv.trexiptv.com:8000/picons/logos/24kitchenhd.png" group-title="TEST",EP4
+#EXTINF:-1 tvg-logo="https://archive.org/download/photo_2019-08-06_06-36-30/photo_2019-08-06_06-36-30.jpg" group-title="TEST",EP4
 https://ia601504.us.archive.org/27/items/sd04_20190822/SD04.mp4?cnt=0
 
 
 
-#EXTINF:-1 tvg-logo="http://tv.trexiptv.com:8000/picons/logos/24kitchenhd.png" group-title="TEST",EP5
+#EXTINF:-1 tvg-logo="https://archive.org/download/photo_2019-08-06_06-36-30/photo_2019-08-06_06-36-30.jpg" group-title="TEST",EP5
 https://ia601400.us.archive.org/12/items/sd05_20190823/SD05.mp4?cnt=0
 
 
 
-#EXTINF:-1 tvg-logo="http://tv.trexiptv.com:8000/picons/logos/24kitchenhd.png" group-title="TEST",EP6
+#EXTINF:-1 tvg-logo="https://archive.org/download/photo_2019-08-06_06-36-30/photo_2019-08-06_06-36-30.jpg" group-title="TEST",EP6
 https://ia601401.us.archive.org/1/items/sd06_20190823/SD06.mp4?cnt=0
 
 
 
-#EXTINF:-1 tvg-logo="http://tv.trexiptv.com:8000/picons/logos/24kitchenhd.png" group-title="TEST",EP7
+#EXTINF:-1 tvg-logo="https://archive.org/download/photo_2019-08-06_06-36-30/photo_2019-08-06_06-36-30.jpg" group-title="TEST",EP7
 https://ia801506.us.archive.org/30/items/sd07_20190823/SD07.mp4?cnt=0
 
 
 
-#EXTINF:-1 tvg-logo="http://tv.trexiptv.com:8000/picons/logos/24kitchenhd.png" group-title="TEST",EP8
+#EXTINF:-1 tvg-logo="https://archive.org/download/photo_2019-08-06_06-36-30/photo_2019-08-06_06-36-30.jpg" group-title="TEST",EP8
 https://ia801405.us.archive.org/10/items/sd08_20190823/SD08.mp4?cnt=0
 
 
 
-#EXTINF:-1 tvg-logo="http://tv.trexiptv.com:8000/picons/logos/24kitchenhd.png" group-title="TEST",EP9
+#EXTINF:-1 tvg-logo="https://archive.org/download/photo_2019-08-06_06-36-30/photo_2019-08-06_06-36-30.jpg" group-title="TEST",EP9
 https://ia601406.us.archive.org/28/items/sd09_20190823/SD09.mp4?cnt=0
 
 
 
-#EXTINF:-1 tvg-logo="http://tv.trexiptv.com:8000/picons/logos/24kitchenhd.png" group-title="TEST",EP10
+#EXTINF:-1 tvg-logo="https://archive.org/download/photo_2019-08-06_06-36-30/photo_2019-08-06_06-36-30.jpg" group-title="TEST",EP10
 https://ia801409.us.archive.org/3/items/sd10_20190823/SD10.mp4?cnt=0
 
 
-#EXTINF:-1 tvg-logo="http://tv.trexiptv.com:8000/picons/logos/24kitchenhd.png" group-title="TEST",EP11
+#EXTINF:-1 tvg-logo="https://archive.org/download/photo_2019-08-06_06-36-30/photo_2019-08-06_06-36-30.jpg" group-title="TEST",EP11
 EP11
 https://ia601404.us.archive.org/21/items/sweetdreamsepisod11hdtvkt/SD11.mp4?cnt=0
 
 
-#EXTINF:-1 tvg-logo="http://tv.trexiptv.com:8000/picons/logos/24kitchenhd.png" group-title="TEST",EP12
+#EXTINF:-1 tvg-logo="https://archive.org/download/photo_2019-08-06_06-36-30/photo_2019-08-06_06-36-30.jpg" group-title="TEST",EP12
 EP12
 https://ia601505.us.archive.org/3/items/sd12_20190823/SD12.mp4?cnt=0
