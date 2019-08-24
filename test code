@@ -27,6 +27,10 @@ https://ia601504.us.archive.org/27/items/sd04_20190822/SD04.mp4?cnt=0
 
 
 
+
+
+
+
 #EXTINF:-1 tvg-logo="https://archive.org/download/photo_2019-08-06_06-36-30/photo_2019-08-06_06-36-30.jpg" group-title="TEST",EP5
 https://ia601400.us.archive.org/12/items/sd05_20190823/SD05.mp4?cnt=0
 
@@ -64,3 +68,9 @@ https://ia601404.us.archive.org/21/items/sweetdreamsepisod11hdtvkt/SD11.mp4?cnt=
 #EXTINF:-1 tvg-logo="https://archive.org/download/photo_2019-08-06_06-36-30/photo_2019-08-06_06-36-30.jpg" group-title="TEST",EP12
 EP12
 https://ia601505.us.archive.org/3/items/sd12_20190823/SD12.mp4?cnt=0
+
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/photo_2019-08-06_06-36-30/photo_2019-08-06_06-36-30.jpg" group-title="TEST",FB MOVIES
+#EXTVLCOPT:network-caching=1500
+https://scontent.fymy1-1.fna.fbcdn.net/v/t39.24130-6/10000000_381609029376635_4744322023337104845_n.mp4?_nc_cat=100&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_oc=AQlblhnSAPmIdaaJfFw3MKPkh9nOWa1Mb8zyzjeTI9uCm0u2hHw01BwBb9VQsn5CGXlVfI66LTVSul6x9I21fNPg&_nc_ht=scontent.fymy1-1.fna&oh=4e5badafe4e983abb12b819889276b55&oe=5DC7660E
+
