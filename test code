@@ -1,14 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://archive.org/download/photo_2019-08-06_06-36-30/photo_2019-08-06_06-36-30.jpg" group-title="TEST",HD TEST 
 #EXTVLCOPT:network-caching=1500
-https://video.fkul5-2.fna.fbcdn.net/v/t42.9040-2/10000000_907827266261126_74372851993411584_n.mp4?_nc_cat=109&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJzdmVfaGQifQ%3D%3D&_nc_eui2=AeEYbG4jH82LEaDW6MclYwKwZ6bmcM3nsMMs3wb-axSt1MDVnK00s8719l8DZvzDwnSkJbuEtjNlIi-lz30pEewHqrBunFLFcBpTM-ooPw-58w&_nc_oc=AQlqdDwNk_sTJHimVRWp5ahK7VwvjfUBsJmRG67LjSS4eRlyh_XCJkMrqKwU2h3fgT8&rl=1500&vabr=429&_nc_ht=video.fkul5-2.fna&oh=37192469f6d98ed60e7909c51b1b5a92&oe=5D6588E3
- 
+https://www.googleapis.com/drive/v3/files/1eKMD1r11fGQzpiksHazAQdJaDeKH0AEC?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
  
  
-#EXTINF:-1 tvg-logo="https://archive.org/download/photo_2019-08-06_06-36-30/photo_2019-08-06_06-36-30.jpg" group-title="TEST",EP1
+#EXTINF:-1 tvg-logo="https://archive.org/download/photo_2019-08-06_06-36-30/photo_2019-08-06_06-36-30.jpg" group-title="TEST",SD TEST
 #EXTVLCOPT:network-caching=1500
-https://ia601507.us.archive.org/13/items/sd02_20190823/SD02.mp4?cnt=0
+https://cdn-static.metube.id//videom3u8/Q3JHe0Y07WIVPNbY7ity/480p/list.m3u8
 
 
 
