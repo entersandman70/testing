@@ -5,9 +5,9 @@ https://www.googleapis.com/drive/v3/files/1d5XZDUb-aWiCTmvcOkG1eMyVMqOwg7t3?alt=
 
  
  
-#EXTINF:-1 tvg-logo="https://archive.org/download/photo_2019-08-06_06-36-30/photo_2019-08-06_06-36-30.jpg" group-title="TEST",SD TEST
+#EXTINF:-1 tvg-logo="https://archive.org/download/photo_2019-08-06_06-36-30/photo_2019-08-06_06-36-30.jpg" group-title="TEST",TITISAN 1080
 #EXTVLCOPT:network-caching=1500
-https://cdn-static.metube.id//videom3u8/Q3JHe0Y07WIVPNbY7ity/480p/list.m3u8
+https://www.googleapis.com/drive/v3/files/1lieU1dGZCHfDaodxKdv136OjK2npszxb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
 
