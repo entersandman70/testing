@@ -12,9 +12,9 @@ https://www.googleapis.com/drive/v3/files/1lieU1dGZCHfDaodxKdv136OjK2npszxb?alt=
 
 
  
-#EXTINF:-1 tvg-logo="https://archive.org/download/photo_2019-08-06_06-36-30/photo_2019-08-06_06-36-30.jpg" group-title="TEST",EP2
+#EXTINF:-1 tvg-logo="https://archive.org/download/photo_2019-08-06_06-36-30/photo_2019-08-06_06-36-30.jpg" group-title="TEST",fhd
 #EXTVLCOPT:network-caching=1500
-https://ia601502.us.archive.org/10/items/sd03_20190823/SD03.mp4?cnt=0
+https://www.googleapis.com/drive/v3/files/1jqFwh0-A0lyoAE9RLu1q58JtMUdJx-I-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/photo_2019-08-06_06-36-30/photo_2019-08-06_06-36-30.jpg" group-title="TEST",EP3
