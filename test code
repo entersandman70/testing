@@ -72,9 +72,8 @@ https://www.googleapis.com/drive/v3/files/12GeFiDIrbuLId3axTIaSl3SfEW9XvsX4?alt=
 #EXTINF:-1 tvg-logo="https://archive.org/download/photo_2019-08-06_06-36-30/photo_2019-08-06_06-36-30.jpg" group-title="MALAY",POCHONG
 https://www.googleapis.com/drive/v3/files/1x1YTb-A4bliSdGF4aSuB4-paDuNeutyJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/photo_2019-08-06_06-36-30/photo_2019-08-06_06-36-30.jpg" group-title="MALAY",TEST ITV
-http://104.233.193.253:8090/mylive/TV2.m3u8?st=6FvNiKNjwQ3f3X9bRFmw2g&e=1568260453
-
+#EXTINF:-1 tvg-logo="https://archive.org/download/photo_2019-08-06_06-36-30/photo_2019-08-06_06-36-30.jpg" group-title="MALAY",TEST MOVIES
+https://media-vidio-com.akamaized.net/uploads/1744768/ets-th3divin3fury-9171_med.mp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/photo_2019-08-06_06-36-30/photo_2019-08-06_06-36-30.jpg" group-title="TEST",FB MOVIES
 #EXTVLCOPT:network-caching=1500
