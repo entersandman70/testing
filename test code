@@ -3,6 +3,10 @@
 #EXTVLCOPT:network-caching=1500
 https://slave6.ourgoldnewz.com/drive//hls/a9a38985a832e89d57e1d81dcc621b86/a9a38985a832e89d57e1d81dcc621b86.m3u8
 
+#EXTINF:-1 tvg-logo="https://archive.org/download/photo_2019-08-06_06-36-30/photo_2019-08-06_06-36-30.jpg" group-title="TEST",TEST utube link
+#EXTVLCOPT:network-caching=1500
+https://youtu.be/8FNn-BqVCRw?t=226
+
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/photo_2019-08-06_06-36-30/photo_2019-08-06_06-36-30.jpg" group-title="TEST",DILAN
 #EXTVLCOPT:network-caching=1500
