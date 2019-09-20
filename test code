@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://archive.org/download/photo_2019-08-06_06-36-30/photo_2019-08-06_06-36-30.jpg" group-title="TEST",TEST KOREAN DRAMA
+#EXTINF:-1 tvg-logo="https://archive.org/download/photo_2019-08-06_06-36-30/photo_2019-08-06_06-36-30.jpg" group-title="TEST",TEST Movies
 #EXTVLCOPT:network-caching=1500
-https://slave6.ourgoldnewz.com/drive//hls/a9a38985a832e89d57e1d81dcc621b86/a9a38985a832e89d57e1d81dcc621b86.m3u8
+http://107.150.50.35:23415/23f8356c/playlist.m3u8?key=ef925db22e196ea2c34881835653e0d6
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/photo_2019-08-06_06-36-30/photo_2019-08-06_06-36-30.jpg" group-title="TEST",TEST UTUBE link
 #EXTVLCOPT:network-caching=1500
