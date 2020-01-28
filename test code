@@ -2,8 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/photo_2019-08-06_06-36-30/photo_2019-08-06_06-36-30.jpg" group-title="TEST",TEN3
 #EXTVLCOPT:network-caching=1500
-http://51.15.2.130:8081/lpcind1/ten3hd/chunks.m3u8?nimblesessionid=5546869&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDE5IDE6MzU6NTIgQU0maGFzaF92YWx1ZT0rY1hUcTdMbDZJY0NUM3dOSXFCZEVnPT0mdmFsaWRtaW51dGVzPTI=&device_id
-
+http://tvku.live:8888/live/pak1/pshab/910.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/photo_2019-08-06_06-36-30/photo_2019-08-06_06-36-30.jpg" group-title="TEST",TEST INDEX Movies
