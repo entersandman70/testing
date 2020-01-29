@@ -1,6 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/photo_2019-08-06_06-36-30/photo_2019-08-06_06-36-30.jpg" group-title="TEST",TEN3
+#EXTVLCOPT:network-caching=2500
 http://tvku.live:8888/live/pak1/pshab/910.m3u8
 
 
