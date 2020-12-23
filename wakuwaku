@@ -12,21 +12,21 @@ https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.m
 #EXTINF: -1 tvg-ID="" tvg-logo="https://cdn.clipart.email/ccab2311cbff4f9bcd1504a0f9a2a83c_wwe-clipart_313-391.jpeg" group-title="Sukan",WWE FHD
 http://tv4iptv.ddns.net:80/live/8795449375/d6Ts37W9jx9/882.m3u8                                          
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/keluarga_1.png" group-title="DOCUMENTARY", DOCUMENTARY 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/TLC.de.png" group-title="DOCUMENTARY",TLC India https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Discovery_asia.jpg" group-title="DOCUMENTARY",DISCOVERY CHANNEL http://tv4iptv.ddns.net:80/live/8795449375/d6Ts37W9jx9/4915.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Discovery_asia.jpg" group-title="DOCUMENTARY",Discovery HINDI https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8 
-#EXTINF:-1 tvg-logo="https://www.upcdirectrendeles.eu/upload_files/chanels/aphd.jpg" group-title="DOCUMENTARY",Animal Planet https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/DiscoveryChannel.us.png" group-title="DOCUMENTARY",Discovery India http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8 
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/DiscoveryChannel.us.png" group-title="DOCUMENTARY",Discovery http://live.highstream.club/live/DISCOVERY/playlist.m3u8 
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/au/DiscoveryScience.au.png" group-title="DOCUMENTARY",Discovery Science HINDI http://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8 
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/au/DiscoveryTurbo.au.png" group-title="DOCUMENTARY",Discovery Turbo https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_discovery_turboPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/CGTNDocu.au.png" group-title="DOCUMENTARY",CGTN Documentary https://livedoc.cgtn.com/1000d/prog_index.m3u8 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CrimeInvestigation.us.png" group-title="DOCUMENTARY",Crime & Investigation http://203.154.243.31:15001 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/DiscoveryChannel.us.png" group-title="DOCUMENTARY",Discovery https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13-Discovery-mp4a_98800_eng=5.m3u8 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/InvestigationDiscovery.us.png" group-title="DOCUMENTARY",Investigation Discovery http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/DiscoveryScience.au.png" group-title="DOCUMENTARY",Discovery Science http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/DiscoveryTurbo.au.png" group-title="DOCUMENTARY",Discovery Turbo http://tv4iptv.ddns.net:80/live/8795449375/d6Ts37W9jx9/28996.m3u8 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/DocuBox.pl.png" group-title="DOCUMENTARY",Docubox https://1795195508.rsc.cdn77.org/1795195508/tracks-v1a1/mono.m3u8 
-#EXTINF:-1 tvg-logo="https://english-club.tv/wp-content/uploads/2015/09/logo-round.png" group-title="DOCUMENTARY",English Club http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://static.iptv-epg.com/de/TLC.de.png" group-title="DOCUMENTARY",TLC India https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8 
+#EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Discovery_asia.jpg" group-title="DOCUMENTARY",DISCOVERY CHANNEL http://tv4iptv.ddns.net:80/live/8795449375/d6Ts37W9jx9/4915.m3u8 
+#EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Discovery_asia.jpg" group-title="DOCUMENTARY",Discovery HINDI https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8 
+#EXTINF:-1 tvg-ID="" tvg-logo="https://www.upcdirectrendeles.eu/upload_files/chanels/aphd.jpg" group-title="DOCUMENTARY",Animal Planet https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8 
+#EXTINF:-1 tvg-ID="" tvg-logo="https://static.iptv-epg.com/us/DiscoveryChannel.us.png" group-title="DOCUMENTARY",Discovery India http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8 
+#EXTINF:-1 tvg-ID="" tvg-logo="http://static.iptv-epg.com/us/DiscoveryChannel.us.png" group-title="DOCUMENTARY",Discovery http://live.highstream.club/live/DISCOVERY/playlist.m3u8 
+#EXTINF:-1 tvg-ID="" tvg-logo="http://static.iptv-epg.com/au/DiscoveryScience.au.png" group-title="DOCUMENTARY",Discovery Science HINDI http://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8 
+#EXTINF:-1 tvg-ID="" tvg-logo="http://static.iptv-epg.com/au/DiscoveryTurbo.au.png" group-title="DOCUMENTARY",Discovery Turbo https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_discovery_turboPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8 
+#EXTINF:-1 tvg-ID="" tvg-ID=""tvg-ID=""tvg-ID=""tvg-ID=""tvg-ID=""tvg-ID=""tvg-logo="https://static.iptv-epg.com/au/CGTNDocu.au.png" group-title="DOCUMENTARY",CGTN Documentary https://livedoc.cgtn.com/1000d/prog_index.m3u8 
+#EXTINF:-1 tvg-ID="" tvg-ID=""tvg-ID=""tvg-ID=""tvg-ID=""tvg-ID=""tvg-logo="https://static.iptv-epg.com/us/CrimeInvestigation.us.png" group-title="DOCUMENTARY",Crime & Investigation http://203.154.243.31:15001 
+#EXTINF:-1 tvg-ID="" tvg-ID=""tvg-ID=""tvg-ID=""tvg-ID=""tvg-logo="https://static.iptv-epg.com/us/DiscoveryChannel.us.png" group-title="DOCUMENTARY",Discovery https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13-Discovery-mp4a_98800_eng=5.m3u8 
+#EXTINF:-1 tvg-ID="" tvg-ID=""tvg-ID=""tvg-ID=""tvg-logo="https://static.iptv-epg.com/us/InvestigationDiscovery.us.png" group-title="DOCUMENTARY",Investigation Discovery http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 tvg-ID="" tvg-ID=""tvg-ID=""tvg-logo="https://static.iptv-epg.com/au/DiscoveryScience.au.png" group-title="DOCUMENTARY",Discovery Science http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8 
+#EXTINF:-1 tvg-ID="" tvg-ID=""tvg-logo="https://static.iptv-epg.com/au/DiscoveryTurbo.au.png" group-title="DOCUMENTARY",Discovery Turbo http://tv4iptv.ddns.net:80/live/8795449375/d6Ts37W9jx9/28996.m3u8 
+#EXTINF:-1 tvg-ID="" tvg-logo="https://static.iptv-epg.com/pl/DocuBox.pl.png" group-title="DOCUMENTARY",Docubox https://1795195508.rsc.cdn77.org/1795195508/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 tvg-ID="" tvg-logo="https://english-club.tv/wp-content/uploads/2015/09/logo-round.png" group-title="DOCUMENTARY",English Club http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
 
