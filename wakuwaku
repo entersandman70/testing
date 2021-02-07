@@ -122,43 +122,50 @@ http://103.132.54.220:9221/stream/channelid/289553282?ticket=555F46A2A46CA5A0965
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
  
 #EXTINF:-1 tvg-id="TVR.ID" tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="Indonesia",TVRI
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+http://no.stable.tel:8080/rubor/uRP4fvMEUY/62177
  
-#EXTINF:-1 tvg-id="BST.ID" tvg-logo="https://www.beritasatu.com/assets/img/news/news_logo.png" group-title="Indonesia",Berita Satu
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
  
 #EXTINF:-1 tvg-id="CNN.ID" tvg-logo="https://storage.googleapis.com/pastiumroh/images/1/XSOMnYNboBxAsfBVvgynT783VsxAr18NyimcWKpU.png" group-title="Indonesia",CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+http://no.stable.tel:8080/rubor/uRP4fvMEUY/62163
  
-#EXTINF:-1 tvg-id="JAG.ID" tvg-logo="https://s3-us-east-2.amazonaws.com/indotrainee/live/logo/company/56/1526461708-46-56.png" group-title="Indonesia",Jakarta Globe
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2288000.m3u8
  
-#EXTINF:-1 tvg-id="JTV.ID" tvg-logo="http://www.jtv.co.id/image/logojtv1.png" group-title="Indonesia",JTV
-http://122.248.43.138:1935/ch2/myStream/chunklist_w1542065869.m3u8
- 
+
 #EXTINF:-1 tvg-id="MET.ID" tvg-logo="https://www.interindo.com/assets/img/MetroTV_Logo_2010.png" group-title="Indonesia",Metro
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
+http://no.stable.tel:8080/rubor/uRP4fvMEUY/62224
+
+
+#EXTINF:-1 tvg-id="MET.ID" tvg-logo="" group-title="Indonesia",MNCTV
+http://no.stable.tel:8080/rubor/uRP4fvMEUY/62214
+
+
+#EXTINF:-1 tvg-id="MET.ID" tvg-logo=" group-title="Indonesia",ANTV
+http://no.stable.tel:8080/rubor/uRP4fvMEUY/62297
+
+
+#EXTINF:-1 tvg-id="MET.ID" tvg-logo="" group-title="Indonesia",NET 1
+http://no.stable.tel:8080/rubor/uRP4fvMEUY/62207
+
+
+#EXTINF:-1 tvg-id="MET.ID" tvg-logo="" group-title="Indonesia",AXN
+http://no.stable.tel:8080/rubor/uRP4fvMEUY/62293
+
+
+#EXTINF:-1 tvg-id="MET.ID" tvg-logo="" group-title="Indonesia",TRANS7
+http://no.stable.tel:8080/rubor/uRP4fvMEUY/62187
+
+
+#EXTINF:-1 tvg-id="MET.ID" tvg-logo="" group-title="Indonesia",TRANSTV
+http://no.stable.tel:8080/rubor/uRP4fvMEUY/62186
+
+
+
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 tvg-id="TRA.ID" tvg-logo="https://lofrev.net/wp-content/photos/2017/05/transtv_logo.png" group-title="Indonesia",Trans TV
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+http://no.stable.tel:8080/rubor/uRP4fvMEUY/62186
  
-#EXTINF:-1 tvg-logo="http://cdn.ninmedia.net/channel/1552478277703508912.png" group-title="ID",ATV
-http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="ID",BE TV
-http://stream1.ninmedia.tv:1935/betv/rtmp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="ID",GEMILANG TV
-http://stream1.ninmedia.tv:1935/gemilangtv/rtmp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="ID",JAMBI TV
-http://stream1.ninmedia.tv:1935/jambitv/rtmp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HP4hpMS.jpg" group-title="MY",Live Makkah 
-http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-250x150px.png" group-title="ID",Maleo
-http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="ID",PAL TV
-http://stream1.ninmedia.tv:1935/paltv/rtmp.stream_360p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/11/Ch-POP-MUSIK-Channel-logo-FINAL-01-250px.png" group-title="ID",POP MUSIK
 http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="ID",RB TV
