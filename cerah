@@ -1,0 +1,92 @@
+
+
+EXTM3U
+
+#EXTINF:-1 ,Animal Oasis
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF:-1 ,Animal Planet
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+#EXTINF:-1 ,Astro Awani
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+#EXTINF:-1 ,Astro Bernama
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+#EXTINF:-1 ,Astro Boo
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 ,Astro Ceria
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1 ,Astro Citra
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:-1 ,Astro Go Shop 2
+http://50.7.161.82:8278/streams/d/Goshop2/playlist.m3u8
+#EXTINF:-1 ,Astro Hello
+http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
+#EXTINF:-1 ,Astro Prima
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:-1 ,Astro 华丽台
+http://50.7.161.82:8278/streams/d/Wlt/playlist.m3u8
+#EXTINF:-1 ,Astro 欢喜台
+http://50.7.161.82:8278/streams/d/Huahee/playlist.m3u8
+#EXTINF:-1 ,Astro 全佳
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF:-1 ,Astro 双星台
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1 ,Celestial Classic Movies 天映经典
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 ,Celestial Movies 天映频道
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1 ,HGTV
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+#EXTINF:-1 ,KiX HD
+http://50.7.161.82:8278/streams/d/KiX/playlist.m3u8
+#EXTINF:-1 ,TV1
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+#EXTINF:-1 ,TV2
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+#EXTINF:-1 ,TV3
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+  
+
+
+#EXTINF:-1 ,Animal Oasis
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF:-1 ,Animal Planet
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+#EXTINF:-1 ,Astro Awani
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+#EXTINF:-1 ,Astro Bernama
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+#EXTINF:-1 ,Astro Boo
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 ,Astro Ceria
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1 ,Astro Citra
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:-1 ,Astro Go Shop 2
+http://50.7.161.82:8278/streams/d/Goshop2/playlist.m3u8
+#EXTINF:-1 ,Astro Hello
+http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
+#EXTINF:-1 ,Astro Prima
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:-1 ,Astro 华丽台
+http://50.7.161.82:8278/streams/d/Wlt/playlist.m3u8
+#EXTINF:-1 ,Astro 欢喜台
+http://50.7.161.82:8278/streams/d/Huahee/playlist.m3u8
+#EXTINF:-1 ,Astro 全佳
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF:-1 ,Astro 双星台
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1 ,Celestial Classic Movies 天映经典
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 ,Celestial Movies 天映频道
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1 ,HGTV
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+#EXTINF:-1 ,KiX HD
+http://50.7.161.82:8278/streams/d/KiX/playlist.m3u8
+#EXTINF:-1 ,TV1
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+#EXTINF:-1 ,TV2
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+#EXTINF:-1 ,TV3
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+  
