@@ -1,6 +1,6 @@
 
 
-EXTM3U
+#EXTM3U
 
 #EXTINF:-1 ,Animal Oasis
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
