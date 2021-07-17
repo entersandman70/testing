@@ -2,6 +2,11 @@
 
 #EXTM3U
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YzUzOTg5YTItNDY5OS0zMzM1LThmYzctOGQ0ZDUzMjk5ZmRi
+#EXTINF:-1 group-title="Malaysian Variety" tvg-id="102" tvg-chno="102" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png",TV2
+https://web.hypp.tv/PLTV/88888888/224/3221227815/3221227815.mpd
+
 #EXTINF:-1 ,Animal Oasis
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 #EXTINF:-1 ,Animal Planet
