@@ -1,126 +1,85 @@
-Astro GO (https://astrogo.astro.com.my/), Cisco IVP
-Media Prima, NHK and FOX channels unavailable
-Unsubscribed channels usually returns with an 403 error
-101 TV1, https://linear-playback.astro.com.my/linear-livewvdaf/711/default_ott.mpd
-102 TV2, https://linear-playback.astro.com.my/linear-livewvdaf/5027/default_ott.mpd
-104 Ria, https://linear-playback.astro.com.my/linear-livewvdaf/1004/default_ott.mpd
-105 Prima, https://linear-playback.astro.com.my/linear-livewvdaf/1000/default_ott.mpd
-106 Oasis, https://linear-playback.astro.com.my/linear-livewvdaf/2505/default_ott.mpd
-107 Warna, https://linear-playback.astro.com.my/linear-livewvdaf/2402/default_ott.mpd
-108 Citra, https://linear-playback.astro.com.my/linear-livewvdaf/2700/default_ott.mpd
-109 Naura, https://linear-playback.astro.com.my/linear-livewvdaf/2703/default_ott.mpd
-111 GO Shop, https://linear-playback.astro.com.my/linear-livewvdaf/2508/default_ott.mpd
-112 Rania, https://linear-playback.astro.com.my/linear-livewvdaf/608/default_ott.mpd
-113 Aura, https://linear-playback.astro.com.my/linear-livewvdaf/609/default_ott.mpd
-114 Al-Hijrah, https://linear-playback.astro.com.my/linear-livewvdaf/1113/default_ott.mpd
-116 Colors, https://linear-playback.astro.com.my/linear-livewvdaf/2611/default_ott.mpd
-118 GO Shop Ruuma, https://linear-playback.astro.com.my/linear-livewvdaf/2501/default_ott.mpd
-120 GO Shop Gaaya, https://linear-playback.astro.com.my/linear-livewvdaf/507/default_ott.mpd
-122 TVS, https://linear-playback.astro.com.my/linear-livewvdaf/5021/default_ott.mpd
-201 Vaanavil, https://linear-playback.astro.com.my/linear-livewvdaf/2309/default_ott.mpd
-202 Vinmeen, https://linear-playback.astro.com.my/linear-livewvdaf/2105/default_ott.mpd
-204 Makkal TV, https://linear-playback.astro.com.my/linear-livewvdaf/709/default_ott.mpd
-211 Sun TV, https://linear-playback.astro.com.my/linear-livewvdaf/2310/default_ott.mpd
-212 Sun Music, https://linear-playback.astro.com.my/linear-livewvdaf/5011/default_ott.mpd
-213 Chutti TV, https://linear-playback.astro.com.my/linear-livewvdaf/1110/default_ott.mpd
-214 Adithya, https://linear-playback.astro.com.my/linear-livewvdaf/915/default_ott.mpd
-221 Star Vijay, https://linear-playback.astro.com.my/linear-livewvdaf/2707/default_ott.mpd
-222 Colors Tamil, https://linear-playback.astro.com.my/linear-livewvdaf/2101/default_ott.mpd
-223 Zee Tamil, https://linear-playback.astro.com.my/linear-livewvdaf/2311/default_ott.mpd
-241 Thangathirai, https://linear-playback.astro.com.my/linear-livewvdaf/1007/default_ott.mpd
-300 iQiYi, https://linear-playback.astro.com.my/linear-livewvdaf/1006/default_ott.mpd
-303 GO Shop, https://linear-playback.astro.com.my/linear-livewvdaf/1005/default_ott.mpd
-304 Xiao Tai Yang, https://linear-playback.astro.com.my/linear-livewvdaf/2711/default_ott.mpd
-305 TVB Classic, https://linear-playback.astro.com.my/linear-livewvdaf/5016/default_ott.mpd
-306 AEC, https://linear-playback.astro.com.my/linear-livewvdaf/2400/default_ott.mpd
-307 Shuang Xing, https://linear-playback.astro.com.my/linear-livewvdaf/2403/default_ott.mpd
-308 Quan Jia, https://linear-playback.astro.com.my/linear-livewvdaf/2507/default_ott.mpd
-309 Celestial Movies, https://linear-playback.astro.com.my/linear-livewvdaf/506/default_ott.mpd
-310 TVB Jade, https://linear-playback.astro.com.my/linear-livewvdaf/2600/default_ott.mpd
-311 AOD, https://linear-playback.astro.com.my/linear-livewvdaf/2706/default_ott.mpd
-316 CTi Asia, https://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_ott.mpd
-317 TVB Entertainment News, https://linear-playback.astro.com.my/linear-livewvdaf/5015/default_ott.mpd
-318 TVB News, https://linear-playback.astro.com.my/linear-livewvdaf/5007/default_ott.mpd
-319 TVB Xing He, https://linear-playback.astro.com.my/linear-livewvdaf/401/default_ott.mpd
-320 TVBS Asia, https://linear-playback.astro.com.my/linear-livewvdaf/402/default_ott.mpd
-321 CCM, https://linear-playback.astro.com.my/linear-livewvdaf/100/default_ott.mpd
-323 TVBS News, https://linear-playback.astro.com.my/linear-livewvdaf/5008/default_ott.mpd
-325 Phoenix, https://linear-playback.astro.com.my/linear-livewvdaf/400/default_ott.mpd
-326 Phoenix Information News, https://linear-playback.astro.com.my/linear-livewvdaf/5009/default_ott.mpd
-333 Hua Hee Dai, https://linear-playback.astro.com.my/linear-livewvdaf/2308/default_ott.mpd
-335 CCTV4, https://linear-playback.astro.com.my/linear-livewvdaf/403/default_ott.mpd
-352 AOD, https://linear-playback.astro.com.my/linear-livewvdaf/700/default_ott.mpd
-353 AOD, https://linear-playback.astro.com.my/linear-livewvdaf/905/default_ott.mpd
-354 AOD, https://linear-playback.astro.com.my/linear-livewvdaf/212/default_ott.mpd
-355 AOD, https://linear-playback.astro.com.my/linear-livewvdaf/307/default_ott.mpd
-392 KBS World, https://linear-playback.astro.com.my/linear-livewvdaf/2306/default_ott.mpd
-393 ONE, https://linear-playback.astro.com.my/linear-livewvdaf/2702/default_ott.mpd
-394 Oh!K, https://linear-playback.astro.com.my/linear-livewvdaf/1002/default_ott.mpd
-395 tvN, https://linear-playback.astro.com.my/linear-livewvdaf/1001/default_ott.mpd
-396 K+ (Astro GO Exclusive), https://linear-playback.astro.com.my/linear-livewvdaf/9983/default_ott.mpd
-400 Jackie Chan, https://linear-playback.astro.com.my/linear-livewvdaf/901/default_ott.mpd
-401 HITS Movies, https://linear-playback.astro.com.my/linear-livewvdaf/2305/default_ott.mpd
-411 HBO, https://linear-playback.astro.com.my/linear-livewvdaf/2304/default_ott.mpd
-412 CINEMAX (-1), https://linear-playback.astro.com.my/linear-livewvdaf/603/default_ott.mpd
-416 tvN Movies, https://linear-playback.astro.com.my/linear-livewvdaf/2406/default_ott.mpd
-501 Awani, https://linear-playback.astro.com.my/linear-livewvdaf/5025/default_ott.mpd
-502 BERNAMA, https://linear-playback.astro.com.my/linear-livewvdaf/1114/default_ott.mpd
-503 CGTN, https://linear-playback.astro.com.my/linear-livewvdaf/5019/default_ott.mpd
-511 CNN, https://linear-playback.astro.com.my/linear-livewvdaf/2503/default_ott.mpd
-512 BBC World News, https://linear-playback.astro.com.my/linear-livewvdaf/1008/default_ott.mpd
-513 Al Jazeera, https://linear-playback.astro.com.my/linear-livewvdaf/2110/default_ott.mpd
-514 Sky News, https://linear-playback.astro.com.my/linear-livewvdaf/2102/default_ott.mpd
-515 CNA, https://linear-playback.astro.com.my/linear-livewvdaf/605/default_ott.mpd
-516 CNBC, https://linear-playback.astro.com.my/linear-livewvdaf/900/default_ott.mpd
-517 Bloomberg, https://linear-playback.astro.com.my/linear-livewvdaf/5020/default_ott.mpd
-518 ABC Australia, https://linearjitp-playback.astro.com.my/dash-wv/linear/904/default_ott.mpd
-521 DW (Astro GO Exclusive), https://linearjitp-playback.astro.com.my/dash-wv/linear/9984/default_ott.mpd
-522 France 24, https://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default_ott.mpd
-550 Nat Geo Wild, https://linear-playback.astro.com.my/linear-livewvdaf/2103/default_ott.mpd
-551 National Geographic, https://linear-playback.astro.com.my/linear-livewvdaf/600/default_ott.mpd
-552 Discovery, https://linear-playback.astro.com.my/linear-livewvdaf/2510/default_ott.mpd
-553 Discovery Asia, https://linear-playback.astro.com.my/linear-livewvdaf/501/default_ott.mpd
-554 Discovery Science, https://linear-playback.astro.com.my/linear-livewvdaf/508/default_ott.mpd
-555 History, https://linear-playback.astro.com.my/linear-livewvdaf/604/default_ott.mpd
-556 Animal Planet, https://linear-playback.astro.com.my/linear-livewvdaf/2710/default_ott.mpd
-601 Tutor TV UPSR, https://linear-playback.astro.com.my/linear-livewvdaf/214/default_ott.mpd
-602 Tutor TV PT3, https://linearjitp-playback.astro.com.my/dash-wv/linear/314/default_ott.mpd
-604 Tutor TV SPM, https://linearjitp-playback.astro.com.my/dash-wv/linear/313/default_ott.mpd
-610 TVIQ, https://linear-playback.astro.com.my/linear-livewvdaf/917/default_ott.mpd
-611 Ceria, https://linear-playback.astro.com.my/linear-livewvdaf/2606/default_ott.mpd
-612 TA-DAA!, https://linear-playback.astro.com.my/linear-livewvdaf/5024/default_ott.mpd
-615 Cartoon Network, https://linear-playback.astro.com.my/linear-livewvdaf/509/default_ott.mpd
-616 Nickelodeon, https://linear-playback.astro.com.my/linear-livewvdaf/2511/default_ott.mpd
-617 Nick Jr, https://linear-playback.astro.com.my/linear-livewvdaf/9982/default_ott.mpd
-619 Boomerang, https://linear-playback.astro.com.my/linear-livewvdaf/2408/default_ott.mpd
-701 AXN, https://linear-playback.astro.com.my/linear-livewvdaf/2303/default_ott.mpd
-702 Hello, https://linearjitp-playback.astro.com.my/dash-wv/linear/2607/default_ott.mpd
-705 KIX, https://linear-playback.astro.com.my/linear-livewvdaf/607/default_ott.mpd
-706 HITS, https://linear-playback.astro.com.my/linear-livewvdaf/606/default_ott.mpd
-707 TLC, https://linear-playback.astro.com.my/linear-livewvdaf/2709/default_ott.mpd
-708 Food Network, https://linear-playback.astro.com.my/linear-livewvdaf/2300/default_ott.mpd
-709 AFN, https://linear-playback.astro.com.my/linear-livewvdaf/500/default_ott.mpd
-710 Nat Geo People, https://linear-playback.astro.com.my/linear-livewvdaf/500/default_ott.mpd
-712 WBTV, https://linear-playback.astro.com.my/linear-livewvdaf/2605/default_ott.mpd
-713 Crime and Investigation, https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
-715 HGTV, https://linear-playback.astro.com.my/linear-livewvdaf/2502/default_ott.mpd
-716 DMAX, https://linear-playback.astro.com.my/linear-livewvdaf/2610/default_ott.mpd
-718 MTV (-1), https://linear-playback.astro.com.my/linear-livewvdaf/5014/default_ott.mpd
-719 Animax, https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_ott.mpd
-800 eGG, https://linear-playback.astro.com.my/linear-livewvdaf/2602/default_ott.mpd
-801 Arena, https://linear-playback.astro.com.my/linear-livewvdaf/2604/default_ott.mpd
-810 ASSP PLUS, https://linear-playback.astro.com.my/linear-livewvdaf/2609/default_ott.mpd
-811 SuperSport 1, https://linear-playback.astro.com.my/linear-livewvdaf/601/default_ott.mpd
-812 SuperSport 2, https://linear-playback.astro.com.my/linear-livewvdaf/2104/default_ott.mpd
-813 SuperSport 3, https://linear-playback.astro.com.my/linear-livewvdaf/2701/default_ott.mpd
-814 SuperSport 4, https://linear-playback.astro.com.my/linear-livewvdaf/600/default_ott.mpd
-815 FOX Sports 1, https://linear-playback.astro.com.my/linear-livewvdaf/2307/default_ott.mpd
-816 FOX Sports 2, https://linear-playback.astro.com.my/linear-livewvdaf/2704/default_ott.mpd
-817 FOX Sports 3, https://linear-playback.astro.com.my/linear-livewvdaf/505/default_ott.mpd
-818 beIN Sports, https://linear-playback.astro.com.my/linear-livewvdaf/408/default_ott.mpd
-819 beIN Sports Max, https://linear-playback.astro.com.my/linear-livewvdaf/2705/default_ott.mpd
-820 Eurosport, https://linear-playback.astro.com.my/linear-livewvdaf/2100/default_ott.mpd
-821 WWE, https://linear-playback.astro.com.my/linear-livewvdaf/2603/default_ott.mpd
-822 Golf Channel, https://linear-playback.astro.com.my/linear-livewvdaf/1003/default_ott.mpd
-823 Rugby Pass TV, https://linear-playback.astro.com.my/linear-livewvdaf/2601/default_ott.mpd
-824 Astro Cricket, https://linear-playback.astro.com.my/linear-livewvdaf/2504/default_ott.mpd
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml" url-tvg="https://weareblahs.github.io/epg/compressed/mytv.xml.gz" refresh="1440" max-conn="1" refresh="24"
+
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/101.png",TV1
+https://github.com/196-25-717-6196/Test/raw/main/101-multi.m3u8|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/102.png",TV2
+https://github.com/196-25-717-6196/Test/raw/main/102-multi.m3u8|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3
+https://github.com/196-25-717-6196/Test/raw/main/103-multi.m3u8|Referer=https://www.dailymotion.com
+
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
+https://github.com/196-25-717-6196/Test/raw/main/D<S>angat-multi.m3u8|Referer=https://www.dailymotion.com
+
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM
+https://github.com/196-25-717-6196/Test/raw/main/107-multi.m3u8|Referer=https://www.dailymotion.com
+
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png",8TV
+https://github.com/196-25-717-6196/Test/raw/main/108-multi.m3u8|Referer=https://www.dailymotion.com
+
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/149.png",TV9
+https://github.com/196-25-717-6196/Test/raw/main/109-multi.m3u8|Referer=https://www.dailymotion.com
+
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="110" tvg-id="110" tvg-chno="110" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/146.png",OKEY
+https://github.com/196-25-717-6196/Test/raw/main/Ok%3Ce%3Ey-multi.m3u8|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://i.ibb.co/JcTZMLX/image.png",Sukan RTM
+https://github.com/196-25-717-6196/Test/raw/main/S%3Cu%3Ekan-multi.m3u8|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://i.ibb.co/vHcWdsP/image.png",TV6
+https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b4064000.m3u8|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="120" tvg-id="120" tvg-chno="120" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/120.png",GO Shop MYTV
+https://github.com/196-25-717-6196/Test/raw/main/G%3CS%3Ehop_my-multi.m3u8
+
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="121" tvg-id="121" tvg-chno="121" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png",Bernama
+https://weareblahs.ga/bernama_fvhls/youtube.m3u
+
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="122" tvg-id="122" tvg-chno="122" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/122.png",TVS
+https://github.com/196-25-717-6196/Test/blob/main/T%3Cv%3ESwak-multi.m3u8
+
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="123" tvg-id="123" tvg-chno="123" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
+https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b4064000.m3u8|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="701" tvg-id="701" tvg-chno="701" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIONASIONALLOGO170X96.png",Nasional FM
+https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017.m3u8
+
+#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/RADIOlogoradiotraxxfm.png",Traxx FM
+https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019.m3u8
+
+#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="703" tvg-id="703" tvg-chno="703" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIMINNALLOGO170X96.png",Minnal FM
+https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021.m3u8
+
+#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="704" tvg-id="704" tvg-chno="704" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIOAIFMLOGO170X96.png",Ai FM
+https://klfmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/playlist.m3u8
+
+#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="705" tvg-id="705" tvg-chno="705" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIOKLASIKLOGO170X96.png",Radio Klasik
+https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016.m3u8
+
+#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="706" tvg-id="706" tvg-chno="706" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIOASYIKFMLOGO170X96.png",Asyik FM
+https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022.m3u8
+
+#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="707" tvg-id="707" tvg-chno="707" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-SabahFM-New.jpg",Sabah FM
+https://sabahfmmobile.secureswiftcontent.com/rtm-ch049/rtm-ch049/playlist.m3u8
+
+#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="708" tvg-id="708" tvg-chno="708" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-SabahVFM-New.jpg",Sabah VFM
+https://sabahvfmmobile.secureswiftcontent.com/rtm-ch024/rtm-ch024/playlist.m3u8
+
+#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="709" tvg-id="709" tvg-chno="709" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-SarawakFM-New.jpg",Sarawak FM
+https://sarawakfmmobile.secureswiftcontent.com/rtm-ch044/rtm-ch044/playlist.m3u8
+
+#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="710" tvg-id="710" tvg-chno="710" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-WaiFM-New.jpg",Wai FM
+https://waifmi.secureswiftcontent.com/rtm-ch025/rtm-ch025/playlist.m3u8|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="721" tvg-chno="721" tvg-logo="https://i.ibb.co/M6x9dPQ/image.png",Hot FM
+https://mediaprima.rastream.com/mediaprima-hotfm
+
+#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="722" tvg-chno="722" tvg-logo="https://i.ibb.co/YckpG8w/image.png",Kool FM
+https://mediaprima.rastream.com/mediaprima-koolfm
+
+#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="724" tvg-chno="723" tvg-logo="https://i.ibb.co/q7bmjbX/image.png",Fly FM
+https://mediaprima.rastream.com/mediaprima-flyfm
+
+#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="724" tvg-chno="724" tvg-logo="https://i.ibb.co/z6nG2s0/image.png",One FM
+https://mediaprima.rastream.com/mediaprima-onefm
