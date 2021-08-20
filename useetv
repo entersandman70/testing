@@ -1,0 +1,128 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useesports2_big.png" group-title="DP@USEETV"  tvg-id="Riyan.1ff1de774005f8da13f42943881c655f.Coday" tvg-name"[CODAY] UseeSports2 _USEETV",UseeSports2 _USEE
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_champ1_big.png" group-title="DP@USEETV"  tvg-id="Riyan.4e732ced3463d06de0ca9a15b6153677.Coday" tvg-name"[CODAY] Champion TV 1 _USEETV",Champion TV 1 _USEE
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion1&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports1_big.png?v=2.0.0.13" group-title="DP@USEETV"  tvg-id="Riyan.a87ff679a2f3e71d9181a67b7542122c.Coday" tvg-name"[CODAY] Fox Sport 1 _USEETV",Fox Sport 1 _USEE
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport1&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports2_big.png?v=2.0.0.13" group-title="DP@USEETV"  tvg-id="Riyan.c0c7c76d30bd3dcaefc96f40275bdc0a.Coday" tvg-name"[CODAY] Fox Sport 2 _USEETV",Fox Sport 2 _USEE
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport2&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports3_big.png?v=2.0.0.13" group-title="DP@USEETV"  tvg-id="Riyan.c51ce410c124a10e0db5e4b97fc2af39.Coday" tvg-name"[CODAY] Fox Sport 3 _USEETV",Fox Sport 3 _USEE
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport3&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png?v=2.0.0.13" group-title="DP@USEETV", Dunia Lain 
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=dunialain&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-id="blueant" tvg-name="blueant" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="DP@USEETV", Blue ant entertainmet
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=blueant&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-id="blueantextreme" tvg-name="blueantextreme" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="DP@USEETV", Blue ant extreme
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=blueantextreme&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="DP@USEETV", AXN 
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=axn&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png?v=2.0.0.13" group-title="DP@USEETV", Waku Waku Japan 
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=wakuwaku&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png?v=2.0.0.13" group-title="DP@USEETV", K+ 
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=kplus&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="DP@USEETV", Sony GEM TV
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=sgem&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png?v=2.0.0.13" group-title="DP@USEETV", Sony One 
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=sone&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="DP@USEETV", Aniplus 
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=aniplus&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-id="" tvg-name="cartoonnetwork" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cartoonnetwork.png" group-title="DP@USEETV",CN
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=cartoonnetwork&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="DP@USEETV", Animax 
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=animax&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kbsworld_small.png" group-title="DP@USEETV", KBS World 
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=kbsworld&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="DP@USEETV", Lifetime 
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=lifetime&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ctiasia_small.png" group-title="DP@USEETV", Ctiasia
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=ctiasia&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="DP@USEETV", Bioskop Indonesia 
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="DP@USEETV", ZBioskop 
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=zbioskop&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="DP@USEETV", Thrill 
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=thrill&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="DP@USEETV", Celestial Movie 
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=celestialmovie&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="DP@USEETV", Cinema World 
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=cinemaworld&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="DP@USEETV", Flik 
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=flik&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="DP@USEETV", Galaxy
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxy&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="DP@USEETV", Galaxy Premium 
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxypremium&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="DP@USEETV", IMC 
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=imc&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="DP@USEETV", NAT GEO WILD
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeowild&bandwidth=default&sync=0
+
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?v=2.0.0.13" group-title="DP@USEETV", NAT GEO PEOPLE
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeopeople&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="DP@USEETV", NAT GEO
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeo&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animalplanet_small.png?v=2.0.0.13" group-title="DP@USEETV", ANIMAL PLANET
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=animalplanet&bandwidth=default&sync=0
+
+
+
+#EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="DP@USEE TV", Aniplus 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=aniplus
+
+#EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="" group-title="DP@USEETV",Horee
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=boomeran
+
+#EXTINF:-1 tvg-id="" tvg-name="Duck TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png" group-title="DP@USEE TV",DuckTV
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=ducktv
+
+#EXTINF:-1 tvg-id="" tvg-name="Dunia Anak" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png" group-title="DP@USEETV",Dunia Anak
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=duniaanak
+
+#EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" group-title="DP@USEETV",Horee
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=horee
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="DP@USEETV", National Geographic
+https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeo&bandwidth=b894100&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?v=2.0.0.13" group-title="DP@USEETV", Nat Geo People
+https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeopeople&bandwidth=b894100&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="DP@USEETV", Nat Geo Wild
+https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeowild&bandwidth=b894100&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_discovery_small.png?v=2.0.0.13" group-title="DP@USEE TV", DISCOVERY
+https://mkctv.my.id/jarwo/cucok.m3u8?id=disco&bandwidth=b894100&sync=0
