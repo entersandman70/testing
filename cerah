@@ -4,9 +4,9 @@ Script by @samleong123.
 Special thanks to @weareblahs.
 Revived unifiPlayTV!
  **/
-$userid = "YOUR_USER_NAME"; /**Put ur registered phone number with unifiPlayTV start with 0**/
-$password = "YOUR_PASSWORD";/**Put ur unifiPlayTV password**/
-$physicaldeviceid = "YOUR_PHYSICAL_DEVICE_ID";/** Retrieve physicalDeviceID from F12 Network when login to playtv.unifi.com.my**/
+$userid = "0183724954"; /**Put ur registered phone number with unifiPlayTV start with 0**/
+$password = "@Zman12345";/**Put ur unifiPlayTV password**/
+$physicaldeviceid = "140627187";/** Retrieve physicalDeviceID from F12 Network when login to playtv.unifi.com.my**/
 
 
 $url = "https://playtv.unifi.com.my:7041/VSP/V3/Authenticate";
