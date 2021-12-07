@@ -3,6 +3,16 @@
 #EXTINF:-1 group-title="TEST" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://yt3.ggpht.com/a/AATXAJy3M0TZ6zvTos-Hs23SkhN-5kCFlxzKxt4HPg=s900-c-k-c0xffffffff-no-rj-mo",TEST Channel
 https://live.astradamy.com/test/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/2021081116172640657u.png",Unifi Sport 1 https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/20210811161847362lc0.png",Unifi Sport 2 https://unifi-live04.secureswiftcontent.com/UnifiHD/live12.mpd
+
+EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/20210811162003633ulc.png",Unifi Sport 3 https://unifi-live05.secureswiftcontent.com/UnifiHD/live13.mpd
+
+EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/20210811162111899up2.png",Unifi Sport 4 https://unifi-live05.secureswiftcontent.com/UnifiHD/live14.mpd
+
+EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/20210811162210893gcu.png",Unifi Sport 5 https://unifi-live05.secureswiftcontent.com/UnifiHD/live15.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cb6c0c34cd3b22efd444edfd21393c10&key=84750873ded43774b06b43b67717a708
 #EXTINF:-1 tvg-id="BollyOneHD" ch-number="BollyOneHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png" group-title="Indian",251 ABO BollyOne HD AOTG
