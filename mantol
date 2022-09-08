@@ -2994,6 +2994,12 @@ https://liveanevia.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 #EXTINF:-1 group-title="RELIGI"  tvg-logo="https://www.dropbox.com/s/zkei3ublal4pq06/remofed21.jpg?dl=1", REMOFED 21
 https://liveanevia.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="RELIGI"  tvg-logo="", Masih Dunia Lain
+http://51.79.145.99:8080/live/FR277/pCuHj/346.ts?token=SRdZUUFeRwtAUAIJBFwEBwYFAgBUVlQEAgNfDVZXBgFTBwcDBlcBAQMQHhoSTUVTA15sDwZECwBXUBUWRRJVRm1cVRIIFFQHUQYEGk0bQ18PVhFcU1AHAVVUCAUFVRwWQlxVEggUVwNVCwQaTRtSThZWQQgDCm5XBhBQV1VDClpHWV0cEFkLbgZXX1kPXRUMQAMRSkAPQkNBXFdBXA0cFlBcRUJTQgATWBAAAVkBFRpAUFwTDBJDSkFcG3lpQxwWV01FVVxFDF4MEAgaFUoVGkBaQDkQA0JHEQNYWVUTEg4QBRMcEFsEST1RXVYPXFRCC1xdFUBcEwJBShtZXw9ZQF1HbkBbUkcLQAoLDVcbSg==
+
+
 ///// KIDS /////
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
